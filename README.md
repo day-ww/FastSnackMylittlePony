@@ -54,8 +54,10 @@ En conjunto, APPFASTSNACK ofrece una solución práctica para la gestión de ped
 * Lenguaje de programación: Java
 * Programación Orientada a Objetos (POO)
 * Interfaces gráficas Java Swing
-* Diagramas UML para el diseño del sistema
-* IDE de desarrollo (NetBeans, Eclipse o IntelliJ IDEA)
+* UML (Lenguaje Unificado de Modelado) para el diseño del diagrama de clases.
+* Apache NetBeans IDE como entorno de desarrollo.
+* JDK (Java Development Kit) para la compilación y ejecución de la aplicación.
+* Imágenes y recursos gráficos para mejorar la experiencia visual de la interfaz.
 
 ---
 
