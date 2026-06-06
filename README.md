@@ -4,17 +4,15 @@
 
 ## Descripción del Proyecto
 
-APPFASTSNACK es una aplicación desarrollada para gestionar pedidos de comida rápida de manera organizada y eficiente. El sistema permite administrar clientes, empleados, productos y pedidos mediante una interfaz gráfica intuitiva y fácil de utilizar.
+APPFASTSNACK es una aplicación desarrollada en Java para la gestión de pedidos de comida rápida. Su objetivo es facilitar la administración de clientes, productos, empleados y pedidos mediante una interfaz gráfica intuitiva y organizada.
 
-La estructura del sistema se basa en un diagrama de clases donde la clase abstracta **Persona** contiene los atributos comunes de nombre y teléfono. De esta clase heredan **Clientes** y **Empleado**, permitiendo reutilizar información dentro del sistema. La clase **Clientes** incorpora la dirección, mientras que **Empleado** añade información relacionada con el cargo y salario.
+El sistema está diseñado utilizando Programación Orientada a Objetos (POO), aplicando conceptos como herencia, asociación, agregación y encapsulamiento. La clase abstracta Persona permite reutilizar información común entre clientes y empleados, mientras que las clases Cliente, Empleado, Producto y Pedido gestionan las principales operaciones del negocio.
 
-La clase principal es **Pedido**, ya que almacena el estado del pedido, la fecha, los productos seleccionados y el cliente asociado. Además, permite agregar o eliminar productos y calcular el valor total de la compra. Existe una relación de asociación entre Clientes y Pedido, mientras que Pedido mantiene una relación de agregación con Producto, ya que un pedido puede contener varios productos.
+La aplicación permite registrar clientes, visualizar productos disponibles, administrar empleados y crear pedidos que incluyen uno o varios productos. Además, calcula automáticamente el valor total de cada pedido y mantiene organizada la información necesaria para el funcionamiento del sistema.
 
-La clase **Producto** almacena información sobre cada artículo disponible, como su nombre y precio. Finalmente, las clases **AppFS**, **EmpleadoFS** y **Productos** representan las interfaces gráficas que permiten la interacción del usuario con el sistema.
+Durante el desarrollo de APPFASTSNACK se buscó crear una experiencia de usuario sencilla y agradable, por lo que la interfaz fue dividida en diferentes ventanas especializadas. También se incorporaron imágenes e iconos representativos para facilitar la navegación y mejorar la interacción del usuario.
 
-Durante el desarrollo de la aplicación se buscó crear una interfaz clara, organizada y fácil de utilizar. Para ello, se dividió el sistema en varias ventanas especializadas, permitiendo que los usuarios encuentren únicamente las opciones necesarias en cada etapa del proceso. Además, se incorporaron imágenes representativas para facilitar la identificación de funciones y mejorar la experiencia visual.
-
-El objetivo principal de APPFASTSNACK es ofrecer una herramienta funcional que facilite la gestión de pedidos de comida rápida, proporcionando una experiencia intuitiva y agradable para los usuarios.
+En conjunto, APPFASTSNACK ofrece una solución práctica para la gestión de pedidos de comida rápida, integrando una estructura de software organizada con una interfaz visual fácil de utilizar.
 
 ---
 
