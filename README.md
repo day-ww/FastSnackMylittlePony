@@ -56,6 +56,3 @@ Estas tablas permitirán que la aplicación pueda registrar, consultar, buscar, 
 
 ##Diapositvas
 https://canva.link/fgovmc6cyufv55d
-
-##Diapositvas
-https://canva.link/fgovmc6cyufv55d
