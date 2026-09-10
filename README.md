@@ -53,6 +53,7 @@ Detalle_Pedido: permitirá relacionar los pedidos con los productos, indicando q
 
 Estas tablas permitirán que la aplicación pueda registrar, consultar, buscar, modificar y eliminar información, manteniendo los datos organizados y relacionados correctamente en MySQL.
 
+---
 
-##Diapositvas
+##  Diapositivas
 https://canva.link/fgovmc6cyufv55d
