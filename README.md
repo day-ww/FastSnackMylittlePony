@@ -50,9 +50,12 @@ Productos: almacenará los productos disponibles, incluyendo nombre, descripció
 Pedidos: registrará los pedidos realizados por los clientes, junto con la fecha y el estado del pedido.
 Detalle_Pedido: permitirá relacionar los pedidos con los productos, indicando qué productos contiene cada pedido y sus respectivas cantidades.
 
-##Diapositvas
-https://canva.link/fgovmc6cyufv55d
 
 Estas tablas permitirán que la aplicación pueda registrar, consultar, buscar, modificar y eliminar información, manteniendo los datos organizados y relacionados correctamente en MySQL.
 
 
+##Diapositvas
+https://canva.link/fgovmc6cyufv55d
+
+##Diapositvas
+https://canva.link/fgovmc6cyufv55d
