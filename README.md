@@ -11,8 +11,6 @@ Los principales usuarios de la aplicación serán los encargados del negocio, qu
 La aplicación permitirá registrar, visualizar, buscar, modificar y eliminar información, facilitando así la organización y administración de los datos del negocio.
 
 
----
-
 ## Integrantes del Grupo
 
 * Integrante 1: Calle Dayanna
@@ -21,11 +19,9 @@ La aplicación permitirá registrar, visualizar, buscar, modificar y eliminar in
 * Integrante 4: Manriquez Brithany
 * Integrante 5: Medrano Emily
 * Integrante 6: Aguiar Adnery
-
----
+  
 
 ##  Análisis de requerimientos: 
-
 
 La aplicación FastSnack deberá permitir gestionar de manera organizada la información relacionada con los productos y pedidos del negocio. Para ello, se establecen los siguientes requerimientos:
 
@@ -40,7 +36,6 @@ Conexión con MySQL: almacenar y recuperar la información directamente desde la
 El sistema busca facilitar la administración de la información de FastSnack, reduciendo errores y haciendo que el manejo de los datos sea más rápido, sencillo y organizado.
 
 
-
 ##  Descripción de las tablas principales
 
 La base de datos de FastSnack estará formada por varias tablas que permitirán organizar y almacenar la información del negocio. Cada tabla tendrá una función específica y estarán relacionadas mediante claves primarias y foráneas.
@@ -49,11 +44,7 @@ Clientes: almacenará la información de los clientes, como nombre, teléfono y 
 Productos: almacenará los productos disponibles, incluyendo nombre, descripción, precio y cantidad.
 Pedidos: registrará los pedidos realizados por los clientes, junto con la fecha y el estado del pedido.
 Detalle_Pedido: permitirá relacionar los pedidos con los productos, indicando qué productos contiene cada pedido y sus respectivas cantidades.
-
-
 Estas tablas permitirán que la aplicación pueda registrar, consultar, buscar, modificar y eliminar información, manteniendo los datos organizados y relacionados correctamente en MySQL.
-
----
 
 ##  Diapositivas
 https://canva.link/fgovmc6cyufv55d
